@@ -12,7 +12,7 @@ curl <raw_url> | sudo bash
 
 ## Examples:
 
-- [singularity builder]()
-- [miniconda installation]()
+- [singularity builder](https://raw.githubusercontent.com/wflynny/jax-vms/master/snippets/singularity.sh)
+- [miniconda installation](https://raw.githubusercontent.com/wflynny/jax-vms/master/snippets/billbo.sh)
 - [service account setup]()
 
